@@ -11,9 +11,11 @@ let quantPagina = 125;
 let preco = 19.90;
 let jaLeu = false;
 
-/*exercicio1 repositório*/
+console.log(livro, autor, quantPagina, preco, jaLeu)
+
+/*exercicio1 repositório
 let resposta = "Olá mundo"
 
-console.log(resposta)
+console.log(resposta)*/
 
 
