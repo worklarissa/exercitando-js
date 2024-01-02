@@ -1,7 +1,9 @@
 let objExemplo = {
-    nome: "Lucas",
-    idade: 17,
-    altura: 1.75,
-    temCnh: false,
-    apelidos: ["Lu", "Luscas", "Luquinhas", "Lusquinha", "Caco"]
+    nome: "Mayhhara",
+    idade: 23,
+    altura: 1.58,
+    temCNH: true,
+    apelidos: ["May", "Ma",]
 }
+
+console.log((objExemplo.nome) tem (objExemplo.idade), (objExemplo.altura)m de altura, )
