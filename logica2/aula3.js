@@ -32,9 +32,17 @@ let cartaoConsumo ={
     cartaoConsumo.idade = 30
     console.log(cartaoConsumo.idade)
 //Imprima o nome do primeiro produto consumido
-    console.log
+    console.log(cartaoConsumo.produtos[0].nomeProduto)
 //Imprima o preço unitário do último produto consumido por ele
+    //console.log(cartaoConsumo.produtos[2].preco)
+    console.log(cartaoConsumo.produtos[cartaoConsumo.produtos.length -1].preco)
+//Imprimir uma mensagem amigavel que inclua chamar o cliente pelo nome e informar o valor que ele deve pagar
+    let totalValor = 0
+    for (let item of cartaoConsumo.produtos){
+        totalValor = totalValor + (item.preco * item.quantidade) 
+    }
 
+    console.log( `Oi ${cartaoConsumo.nomeCliente}! Você precisa pagar ${totalValor}`)
 
 
 //exercício sozinha 
