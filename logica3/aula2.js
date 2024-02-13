@@ -8,11 +8,16 @@
 mostrarTabuada(9);
 */
 
-//exercicio dois- forEach
-
-const numeros = [1, 2, 3, 4, 5, 6, 7, 8]
+//exemplo- forEach
+/*const numeros = [1, 2, 3, 4, 5, 6, 7, 8]
 
 numeros.forEach((numero) => {
-    console.log(numero);
+    console.log(numero + 1);
 })
+*/
+//exercicio um- forEach
+
+const positivoNegativo = [10, -2, 5, -8, 15];
+
+positivoNevagativo.forEach(numero)
 
