@@ -8,6 +8,6 @@ Essa foi minha primeira linguagem de programação e em todos os cursos que fiz 
 ## Créditos
 Esta é um seção de agradecimento as instituições, sites e professores que possibilitaram meu aprendizado
 
-- @minasprogramam
-- @Programadores-do-amanha-PDA
-- @FIAP
+- Instituto Minas Programam
+- Programadores do Amanha
+- FIAP
