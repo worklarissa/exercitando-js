@@ -3,7 +3,7 @@
 # Exercícios de JavaScript
 Este repositório irá conter todos os exercícios de JavaScript(puro) que realizei
 
-Essa foi minha primeira linguagem de programação e em todos os cursos que fiz até o momento, retorno a ela, pois é uma das mais famosas no mercado mas também é uma linguagem de fácil aprendizado.
+Essa foi minha primeira linguagem de programação e em todos os cursos que fiz, até o momento, retorno a ela, pois é uma das mais famosas no mercado mas, também é uma linguagem de fácil aprendizado.
 
 ## Créditos
 Esta é um seção de agradecimento as instituições, sites e professores que possibilitaram meu aprendizado
