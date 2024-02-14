@@ -16,8 +16,25 @@ numeros.forEach((numero) => {
 })
 */
 //exercicio um- forEach
+/*const positivoNegativo = [10, -2, 5, -8, 15];
 
-const positivoNegativo = [10, -2, 5, -8, 15];
+positivoNegativo.forEach((numero) => {
+    if  (numero < 0){
+       console.log(`${numero} é negativo`);
+   } else{
+      console.log(`${numero} é positivo`)
+   }
+});
+*/
 
-positivoNevagativo.forEach(numero)
+//Exercício dois
+const valor = [10, 20, 30, 40, 50];
 
+function dobrarNumero(valor) {
+    valor.forEach((i) => {
+        resultado = i * 2;
+        console.log(`O ${i}, dobrado é: ${resultado}`);
+    })
+}
+
+dobrarNumero(valor)
